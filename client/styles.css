@@ -132,3 +132,15 @@ nav ul li a:hover {
 .home-link:hover {
     text-decoration: underline;
 }
+
+.image-container
+{
+    text-align:center;
+}
+
+img
+{
+    margin-top: 30px;
+    width: 300px;
+    height: auto;
+}
